@@ -1,0 +1,56 @@
+body{
+    background-image: url('/318533.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.logo{
+    width: 100px;
+}
+
+.contact{
+    text-align: center;
+    font-size: 10em;
+    background-image: url('/img_5cd5ece189899.jpg');
+    color: blanchedalmond;
+}
+
+.ques{
+    text-align: center;
+    font-size: 2em;
+    color: white;
+}
+
+.prob{
+    color: white;
+}
+
+.buttony{
+    width: 5em;
+    background-color: white
+    color: black;
+    margin-left: 43%;
+}
+
+.buttonyy{
+    width: 8em;
+    background-color: white;
+    color: black;
+    margin: 2%;
+}
+
+.cmmnt{
+    color: white;
+}
+
+.email{
+    color: white;
+}
+.city{
+    color: white;
+}
+
+.top{
+    color: white;
+    float: right;
+}
